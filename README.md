@@ -1,2 +1,1 @@
 # SoftRoboticGripper
-# SoftRoboticGripper
