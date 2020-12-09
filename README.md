@@ -1,3 +1,3 @@
 # SoftRoboticGripper
 
-![text](doc/BLOCK DIAGRAM-01.jpg)
+![alt text](doc/BLOCK DIAGRAM-01.jpg)
